@@ -1,2 +1,4 @@
 na grankata bug456
 Ova e fajl F, sea mu pravam promena.
+Prethodnata promena beshe napravena preku github
+a sega ova go pravam preku direktorium i ke go pushnam
